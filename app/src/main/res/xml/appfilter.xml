@@ -105,7 +105,7 @@
 	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Grey_black}" drawable="calendar"/>
 	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Light_green}" drawable="calendar"/>
 	<item component="ComponentInfo{com.crdroid.etar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
-	
+
 	<!---camera-->
 	<item component=":CAMERA" drawable="camera" />
 	<item component="ComponentInfo{com.google.android.GoogleCameraWide/com.android.camera.CameraLauncher}" drawable="camera"/>
@@ -192,6 +192,7 @@
 	<item component="ComponentInfo{com.GoogleCamera.Burial16/com.android.camera.CameraLauncher}" drawable="camera"/>
 	<item component="ComponentInfo{com.google.android.GoogleCamera.Cameight/com.android.camera.CameraLauncher}" drawable="camera"/>
 	<item component="ComponentInfo{jp.co.sharp.android.camera/jp.co.sharp.android.camera.stillimagecamera.Camera}" drawable="camera"/>
+	<item component="ComponentInfo{com.nothing.camera/com.nothing.camera.activity.CameraActivity}" drawable="camera"/>
 
 	<!---clock-->
 	<item component=":CLOCK" drawable="clock" />
@@ -348,6 +349,7 @@
 	<item component="ComponentInfo{best.gallery/best.gallery.activities.SplashActivity.Orange}" drawable="gallery"/>
 	<item component="ComponentInfo{photography.blackgallery.android/photography.blackgallery.android.activity.SplashActivity}" drawable="gallery"/>
 	<item component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity}" drawable="gallery"/>
+	<item component="ComponentInfo{com.nothing.gallery/com.nothing.gallery.activity.EntryActivity}" drawable="gallery"/>
 
 	<!---phone-->
 	<item component=":PHONE" drawable="phone" />
@@ -767,6 +769,7 @@
 	<item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}" drawable="sound_recorder"/>
 	<item component="ComponentInfo{com.rimidalv.dictaphone/com.rimidalv.dictaphone.activities.MainActivity}" drawable="sound_recorder"/>
 	<item component="ComponentInfo{com.smartmobitools.voicerecorder/com.smartmobitools.voicerecorder.ui.SplashActivity}" drawable="sound_recorder"/>
+	<item component="ComponentInfo{com.nothing.soundrecorder/com.nothing.soundrecorder.MainActivity}" drawable="sound_recorder"/>
 
 	<!---flashlight-->
 	<item component="ComponentInfo{com.htc.flashlight/com.htc.flashlight.FlashlightActivity}" drawable="flashlight" />
@@ -1092,7 +1095,7 @@
 	<!---audiofx-->
 
 	<!---screen_recorder-->
-		
+
 	<!---dailymotion-->
 
 	<!---paper_camera-->
@@ -3142,6 +3145,7 @@
 
 	<!---viking_app-->
 	<item component="ComponentInfo{com.vikingco.vikingapp/com.vikingco.vikingapp.activities.MainActivity}" drawable="vikingnation" />
+	<item component="ComponentInfo{com.vikingco.vikingapp/com.vikingco.vikingapp.MainActivity}" drawable="vikingnation" />
 
 	<!---fire_emblem_heroes-->
 
@@ -3612,7 +3616,7 @@
 	<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.Launcher}" drawable="duckduckgo"/>
 	<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherGreen}" drawable="duckduckgo"/>
 	<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlack}" drawable="duckduckgo"/>
-	
+
 	<!---sueddeutsche-->
 
 	<!---los_changelog-->
@@ -4407,6 +4411,7 @@
 	<item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds"/>
 	<item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity.White}" drawable="mcdonalds"/>
 	<item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity}" drawable="mcdonalds" />
+	<item component="ComponentInfo{jp.co.mcdonalds.android/mcdonalds.basic.McdonaldsJapanHomeActivity}" drawable="mcdonalds" />
 
 	<!---moodpath-->
 
@@ -4495,7 +4500,7 @@
 
 	<!--life_360-->
 	<item component="ComponentInfo{com.life360.android.safetymapd/com.life360.android.shared.base.LauncherActivity}" drawable="life_360" />
-	<item component="ComponentInfo{com.life360.android.safetymapd/com.life360.koko.root.RootActivity}" drawable="life_360"/>	
+	<item component="ComponentInfo{com.life360.android.safetymapd/com.life360.koko.root.RootActivity}" drawable="life_360"/>
 
 	<!--magisk-->
 	<item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk" />
@@ -4679,7 +4684,7 @@
 	<!-- Stardew Valley -->
 	<item component="ComponentInfo{com.chucklefish.stardewvalley/md5dee79b5aa46d0ac87adbcd4b193daa49.MainActivity}" drawable="stardew_valley" />
 	<item component="ComponentInfo{com.chucklefish.stardewvalley/crc64e8b22d3833b21ea5.MainActivity}" drawable="stardew_valley" />
-		
+
 	<!-- Wordscapes -->
 	<item component="ComponentInfo{com.peoplefun.wordcross/com.peoplefun.wordcross.MonkeyGame}" drawable="wordscapes" />
 
@@ -5176,17 +5181,17 @@
 
 	<!--roblox-->
 	<item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox"/>
-	
+
 	<!--bearable-->
 	<item component="ComponentInfo{com.bearable/com.bearable.MainActivity}" drawable="bearable" />
-	
+
 	<!-- adaway -->
 	<item component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}" drawable="adaway"/>
 	<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
 
 	<!-- aptoide -->
 	<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.MainActivity}" drawable="aptoide"/>
-	
+
 	<!-- blackplayer -->
 
 	<!-- brainly -->
@@ -5194,7 +5199,7 @@
 
 	<!-- bromite -->
 	<item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite"/>
-	
+
 	<!-- capcut -->
 	<item component="ComponentInfo{com.lemon.lvoverseas/com.vega.launcher.precondition.PreInstallConfirmActivity}" drawable="capcut"/>
 
@@ -5217,13 +5222,13 @@
 
 	<!-- klck (kustom) -->
 	<item component="ComponentInfo{org.kustom.lockscreen/org.kustom.app.OnBoardingActivity}" drawable="kustom_klck"/>
-	
+
 	<!-- klwp (kustom) -->
 	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.app.OnBoardingActivity}" drawable="kustom_klwp"/>
 	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity}" drawable="kustom_klwp"/>
 	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.settings.SettingsActivity}" drawable="kustom_klwp"/>
 	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.settings.WpSettingsActivity}" drawable="kustom_klwp"/>
-	
+
 	<!-- kwgt (kustom) -->
 	<item component="ComponentInfo{org.kustom.widget.pro/a.y.z.HZ}" drawable="kustom_kwgt"/>
 	<item component="ComponentInfo{org.kustom.widget.pro/org.kustom.pro.MainActivity}" drawable="kustom_kwgt"/>
@@ -5232,10 +5237,10 @@
 	<!-- last.fm (+ simple scrobbler) -->
 	<item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last_fm"/>
 	<item component="ComponentInfo{com.adam.aslfms/com.adam.aslfms.SettingsActivity}" drawable="last_fm"/>
-	
+
 	<!-- lazada -->
 	<item component="ComponentInfo{com.lazada.android/com.lazada.activities.EnterActivity}" drawable="lazada"/>
-	
+
 	<!-- shopee -->
 	<item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
 	<item component="ComponentInfo{com.shopee.ph/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
@@ -5248,7 +5253,7 @@
 	<item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
 	<item component="ComponentInfo{pl.solidexplorer1/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
 	<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
-	
+
 	<!-- soundhound -->
 	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound"/>
 
@@ -5260,10 +5265,10 @@
 
 	<!-- galaxy_labs-->
 	<item component="ComponentInfo{com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity}" drawable="galaxy_labs"/>
-	
+
 	<!-- roborock -->
 	<item component="com.roborock.smart/com.roborock.smart.activity.SplashActivity}" drawable="roborock"/>
-	
+
 	<!-- picPay -->
 	<item component="ComponentInfo{com.picpay/com.picpay.features.enter.ReleasePicPayEnter}" drawable="picpay" />
 
@@ -7774,4 +7779,49 @@
 	<!---gemini-->
 	<item component="ComponentInfo{com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity}" drawable="gemini"/>
 
+	<!---binary_eye-->
+	<item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="barcode_scanner"/>
+
+	<!---essential_space-->
+	<item component="ComponentInfo{com.nothing.ntessentialspace/com.nothing.ntessentialspace.MainActivity}" drawable="essential_space"/>
+
+	<!---fluffychat-->
+	<item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat"/>
+
+	<!---paypay-->
+	<item component="ComponentInfo{jp.ne.paypay.android.app/jp.ne.paypay.android.app.MainActivity}" drawable="paypay"/>
+
+	<!---tokai_station_point-->
+	<item component="ComponentInfo{jp.co.jr_central.tokaistationpoint/jp.co.jr_central.tokaistationpoint.screens.splash.SplashActivity}" drawable="tokai_station_point" />
+
+	<!---travy-->
+	<item component="ComponentInfo{com.saionjichannel.ryokoshiyagare/com.saionjichannel.ryokoshiyagare.MainActivity}" drawable="travy"/>
+
+	<!---osaifu_keitai-->
+	<item component="ComponentInfo{com.felicanetworks.mfm.main/com.felicanetworks.mfm.main.ServiceListActivity}" drawable="osaifu_keitai"/>
+
+	<!---welcia-->
+	<item component="ComponentInfo{jp.co.welcia_yakkyoku.tapps/com.locationvalue.ma2.app.SplashActivity}" drawable="welcia"/>
+
+	<!---ekitag-->
+	<item component="ComponentInfo{jp.co.jreast.ekitag/jp.co.jreast.ekitag.MainActivity}" drawable="ekitag"/>
+
+	<!---rakute_travel-->
+	<item component="ComponentInfo{jp.co.rakuten.travel.andro/jp.co.rakuten.travel.andro.MainActivity}" drawable="rakuten_travel"/>
+
+	<!---biccamera-->
+	<item component="ComponentInfo{com.biccamera.android.mobile/com.biccamera.ui.LauncherActivity}" drawable="biccamera"/>
+
+	<!---view_card-->
+	<item component="ComponentInfo{jp.co.viewcard.viewcardapp.android/jp.co.viewcard.viewcardapp.ui.MainActivity}" drawable="view_card"/>
+
+	<!---mobile_suica-->
+	<item component="ComponentInfo{com.mobilesuica.msb.android/crc64c47217c4afd91a00.SuicaMainActivity}" drawable="mobile_suica"/>
+	<item component="ComponentInfo{com.mobilesuica.msb.android/com.mobilesuica.msb.android.extension.view.RootActivity}" drawable="mobile_suica"/>
+
+	<!--mobile_icoca-->
+	<item component="ComponentInfo{jp.co.westjr.android.icocaapp/crc64fa0dbc8111ab4fb7.MainActivity}" drawable="mobile_icoca"/>
+
+	<!-- money_forward_me -->
+	<item component="ComponentInfo{com.moneyforward.android.app/com.moneyforward.android.ui.MainActivity}" drawable="money_forward_me"/>
 </resources>
